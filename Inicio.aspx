@@ -13,7 +13,7 @@
     <form id="form1" runat="server">
         <div class="pagina">
             <div class="encabezado">
-                <h1>Conversor Temperaturas</h1>
+                <h1>Conversor Temperaturassgsdh</h1>
             </div>
             <div class="cuerpo">
                 <asp:Label ID="LblCentigrados" runat="server" Text="Grados Centígrados" CssClass="elemento"></asp:Label>
